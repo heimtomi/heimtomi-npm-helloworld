@@ -1,0 +1,19 @@
+{
+  "name": "heimtomi-npm-helloworld",
+  "version": "1.0.0",
+  "description": "Hello world project to test out npm publishing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heimtomi/heimtomi-npm-helloworld.git"
+  },
+  "author": "Tamás Heim <heimtomi@gmail.com> (https://github.com/heimtomi)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heimtomi/heimtomi-npm-helloworld/issues"
+  },
+  "homepage": "https://github.com/heimtomi/heimtomi-npm-helloworld#readme"
+}
