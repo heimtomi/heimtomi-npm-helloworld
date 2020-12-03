@@ -1,5 +1,5 @@
 {
-  "name": "heimtomi-npm-helloworld",
+  "name": "@heimtomi/heimtomi-npm-helloworld",
   "version": "1.0.0",
   "description": "Hello world project to test out npm publishing",
   "main": "index.js",
