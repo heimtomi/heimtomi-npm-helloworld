@@ -1,6 +1,6 @@
 {
   "name": "@heimtomi/heimtomi-npm-helloworld",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hello world project to test out npm publishing",
   "main": "index.js",
   "scripts": {
